@@ -106,6 +106,7 @@ const siteProps = {
   email: "muskaanfayyaz3@gmail.com",
   gitHub: "https://github.com/muskaanfayyaz",
   linkedIn: "https://www.linkedin.com/in/muskaan-fayyaz-8431302b5/",
+  yotube: "https://www.youtube.com/channel/UCHsX0CP9cA9Ngf8bEat1Gdg"
 };
 ```
 
